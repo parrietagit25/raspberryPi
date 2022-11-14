@@ -4,7 +4,7 @@ proyectos con raspberry pi
 - Archivo led.py
   Enciende un led
   video: https://youtu.be/rG2eh1d4qqQ
-  Vedeo 2: https://youtu.be/4WE6NYQRofI
+  Video 2: https://youtu.be/4WE6NYQRofI
   
 - Archivo relayOnOff.py
   Prende y Apaga relay en una placa con 16 relay
