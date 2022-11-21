@@ -17,3 +17,8 @@ proyectos con raspberry pi
 - Archivo sensorUltrasonido.py
   Detector de proximidad con un sensor de ultrasonido
   Video: https://youtu.be/l2RCe8_IR_A
+
+- Mini-Proyecto, cambio de Velocidad.
+  Carpeta: cambioVelocidad
+  Cambio de Velocidad, "tacometro"
+  Video: https://www.youtube.com/watch?v=hy4SjcF9e5w
